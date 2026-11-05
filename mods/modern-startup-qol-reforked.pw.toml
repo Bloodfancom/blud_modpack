@@ -1,6 +1,6 @@
 name = "Modern Startup QOL Reforked"
 filename = "ModernStartupQOL-1.2-1.20.X.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

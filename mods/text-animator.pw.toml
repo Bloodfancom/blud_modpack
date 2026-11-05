@@ -1,6 +1,6 @@
 name = "Text Animator"
 filename = "TextAnimator-1.20.1-Forge-2.5.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
