@@ -1,0 +1,13 @@
+name = "Take Back the Night"
+filename = "take_back_the_night-forge-1.4.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "063368a74a5317d6c3c6b764a8092cca0dd7cb03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7898269
+project-id = 1356958

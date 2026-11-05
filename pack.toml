@@ -1,0 +1,12 @@
+name = "MC Eternal 2"
+version = "1.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "587e1dc6e78baede6ac84151d4fd25fe7d84d28ac05f3512f41edc08005238bd"
+
+[versions]
+forge = "47.4.2"
+minecraft = "1.20.1"
