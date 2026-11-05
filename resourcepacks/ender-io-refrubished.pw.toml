@@ -1,6 +1,6 @@
 name = "Ender IO: Into the Void"
 filename = "enderio-refrubished-preview.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

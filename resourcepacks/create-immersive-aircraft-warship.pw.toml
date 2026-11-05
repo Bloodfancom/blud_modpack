@@ -1,6 +1,6 @@
 name = "Create Immersive Aircraft : Warship"
 filename = "Create Immersive Aircraft Warship ResoucePack v1.2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

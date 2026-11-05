@@ -1,6 +1,6 @@
 name = "Ice & Fire Dragonsteel Weaponry"
 filename = "IAF-DE4THR4SH-Dragonsteel-Weaponry-V-3.5-[1.20.X].zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
