@@ -20700,7 +20700,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5f7c3cf35124bf96e880cc8562fc44ac15990a89b07db299aed9a88ce3752cb1"
+hash = "2ec43d88a80ffb1f254c8acfb914638dde45c723399a3df32def2d178c4fb5b0"
 metafile = true
 
 [[files]]
@@ -21015,7 +21015,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "f5770197f30417cfbe5306ad84aab85cab79bf17958aa4d1d962a55cc659a320"
+hash = "87794d8ea2eefedf0c045fdfc9bb70b97f2b40130b95e61af773dfbbcd4205a1"
 metafile = true
 
 [[files]]
@@ -22000,7 +22000,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "74a64acbd2275c16e47fb17e74bcd431779674cefa1f54f67f15b4d9b955aec7"
+hash = "170b813fb73ae1f8113e5c47dc2d76e842e1f4b0c1d7bf20e99f0485e12a86ee"
 metafile = true
 
 [[files]]
