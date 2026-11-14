@@ -19420,7 +19420,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomancy.pw.toml"
-hash = "d9c6be712050ede6a6aaf8c6d1d299fb08f475d874bc2f7ae8b2c33dc0c1d632"
+hash = "2d15a992bf4c96a1c9b1fe810c347c3705a17e0b14c99bebb48b82ab2c6265d7"
 metafile = true
 
 [[files]]
@@ -20059,6 +20059,11 @@ hash = "d47b5e5441de64d4d065ffac5c157535cf08ba2f7e84ee6c90d04c2ee532f322"
 metafile = true
 
 [[files]]
+file = "mods/eidolon-repraised.pw.toml"
+hash = "88a4ed7c99efd358ee7b17f031340be1491c9ed0adb2c253c82a89da8eaf60ba"
+metafile = true
+
+[[files]]
 file = "mods/elysium-api.pw.toml"
 hash = "2c0f573079d240b04d02a27f6c166a0cc683c8cb58fb4708c5c407e0b6c2a3f1"
 metafile = true
@@ -20081,6 +20086,11 @@ metafile = true
 [[files]]
 file = "mods/embers-floating-islands.pw.toml"
 hash = "af5893bde13f9a75013bc1da9ff2b643e6f49d0429b73fefb2daf4fcb2c01e89"
+metafile = true
+
+[[files]]
+file = "mods/embers-rekindled.pw.toml"
+hash = "80e53e3854ee715aab72ce43bfecb138eee93a805019e36ee7a49a4e092c3cf0"
 metafile = true
 
 [[files]]
@@ -20451,6 +20461,11 @@ metafile = true
 [[files]]
 file = "mods/hex-ars-linker.pw.toml"
 hash = "65bf202666e8a28430cab4132e638d14e4f2e72ba8d3b0b7253d237a80757e77"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "05f0aaf63c00487b7e7744c940dc5e4aacdf5843fe6368c3ac22ab07b52f3124"
 metafile = true
 
 [[files]]
@@ -20984,6 +20999,11 @@ hash = "6a294645da1a75d2c5c09f538905ec51301e8e5847ef8e0c8a0f239125f57f38"
 metafile = true
 
 [[files]]
+file = "mods/malum.pw.toml"
+hash = "19821414a26c40c40f4584102cbc73df7282ef1aadf8f948b37f97c6f44a91a3"
+metafile = true
+
+[[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "e3b7a1a0ed3353dead103974c5249ddfcab3e70a1c77fab5fd3a47b19b4ba26b"
 metafile = true
@@ -21136,6 +21156,11 @@ metafile = true
 [[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "59d2c9a2801e0f5d0798e621595634122200d8e7f0717043b59b53231f74cb3c"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "bc35b92acb8d4d4eb0939e55a59b9005f50a812779f4c39b48bd2aa02d0d498d"
 metafile = true
 
 [[files]]
@@ -21411,6 +21436,16 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "2b0772879a1d43e6fc0d892dca4a85d360e813d5cd3907fc2ab42f345b146362"
+metafile = true
+
+[[files]]
+file = "mods/projecte.pw.toml"
+hash = "26b6891625bf09317245200e3adb871cea00dbd41859d68cf57062544c0e6041"
+metafile = true
+
+[[files]]
+file = "mods/psi.pw.toml"
+hash = "a87548b87f5073c5b48a947e7c0eccd6e29a0205c3c202d07f74fc4d82ae2d1f"
 metafile = true
 
 [[files]]
