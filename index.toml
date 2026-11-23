@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/deploy-packwiz.yaml"
-hash = "6cf36df453a2837143e70e1a0d8cb9d68a9e19b04acb43f641865f5dbdefb427"
-
-[[files]]
 file = "client-overrides/blueprints/bloodgamerfan/pack.json"
 hash = "25ee19ad49a31b61bf147e9c2185f4e9fa2ea026909989384cc725fe51a38b89"
 
@@ -179,10 +175,6 @@ hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 [[files]]
 file = "client-overrides/config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "client-overrides/config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "client-overrides/config/Obscuria/Data/aquamirae_cover.png"
@@ -16725,10 +16717,6 @@ file = "client-overrides/shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPa
 hash = "b2d2eddf2ca93d2eb8ebf91a3f2aea695b9e4ec047268f4442f01543565663bd"
 
 [[files]]
-file = "client-overrides/shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3/shaders/blockProperties/README.md"
-hash = "eda358cc7182806f89bd6badb6ae0d14395327506f760113bef8bf29862fa72b"
-
-[[files]]
 file = "client-overrides/shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3/shaders/blockProperties/instructions/readme.properties"
 hash = "05eb8c57980563265778a809634081b62d998931e4bc237ddea63862ece08a8d"
 
@@ -22579,10 +22567,6 @@ hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
 [[files]]
 file = "server-overrides/config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "server-overrides/config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "server-overrides/config/Obscuria/aquamirae-common.toml"
