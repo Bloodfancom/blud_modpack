@@ -1,13 +1,14 @@
 name = "Tinkers' Compatibility"
-filename = "tcompat-1.20.1-2.1.0.jar"
+filename = "tcompat-1.20.1-2.0.0.jar"
 side = "both"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/7dqAlUms/versions/rPvJmwfO/tcompat-1.20.1-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/7dqAlUms/versions/j8Bxsa6j/tcompat-1.20.1-2.0.0.jar"
 hash-format = "sha512"
-hash = "7c2c0ea00368c174774809810f6d0b830d60367f9620e29f28728cad26c0c71684e165c1e9d3ba4b22e8067b1641b4c705c95c4a4b03237e83233407937b18d0"
+hash = "6c8575ce9d3f914cbe32578e90ccac4a7a1c3967054d5b0aad9ffc9ba477095bb4f484b607224586f9a904e1193d70a0a49551b8a2148015cccb2f00761b6338"
 
 [update]
 [update.modrinth]
 mod-id = "7dqAlUms"
-version = "rPvJmwfO"
+version = "j8Bxsa6j"

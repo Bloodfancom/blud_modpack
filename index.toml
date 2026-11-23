@@ -5062,7 +5062,7 @@ hash = "8127f6a1473a9ecf386263097f34da04a2ca8e143f96e5b7a45908fc469a906a"
 
 [[files]]
 file = "client-overrides/config/immediatelyfast.json"
-hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+hash = "2855f4c1f0d4aa33a2bd1ae4e40f4bf17471d13759adbd6e2c0fceb2e8268d9b"
 
 [[files]]
 file = "client-overrides/config/immersive_aircraft.json"
@@ -5682,7 +5682,7 @@ hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
 
 [[files]]
 file = "client-overrides/config/modernfix-mixins.properties"
-hash = "fc4ecfd724bcdfac1e2ba02622171e27452cec469da58c55875ce17a334fbc5c"
+hash = "568a0bab24077f5f6e35ad6ab70a3ddb29defe601c737c533dfcd71c20219e8d"
 
 [[files]]
 file = "client-overrides/config/modernstartupqol-client.toml"
@@ -19760,7 +19760,7 @@ metafile = true
 
 [[files]]
 file = "mods/constructs-casting.pw.toml"
-hash = "8c2476a96c809e43925bf5211bac3bcdc5256312d71d314e372c6ed67123595c"
+hash = "cd91472dc8e3741c0df8e97fb8be276824d7cf76107052bb7a35f93e5da8b19c"
 metafile = true
 
 [[files]]
@@ -21010,7 +21010,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "87794d8ea2eefedf0c045fdfc9bb70b97f2b40130b95e61af773dfbbcd4205a1"
+hash = "9e019b014523591b9c58a1dcd5306ec67f49942ba1ee5ff5d0eb257dad860879"
 metafile = true
 
 [[files]]
@@ -21865,7 +21865,7 @@ metafile = true
 
 [[files]]
 file = "mods/tconjei.pw.toml"
-hash = "7927d1bd95d0070a03beec1294459d2f83f46a0ed618237d3b2ae1cb0798a75b"
+hash = "3c437c4fb1f709f7f3559072305c9a210ad5e85546317842d888d4ed3704a8df"
 metafile = true
 
 [[files]]
@@ -21955,7 +21955,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinker-and-better-combat.pw.toml"
-hash = "72f51da2ab756f45b6671cbb42ceba90ece4ca4de1b02e356dde2c08910b423c"
+hash = "ae964462914269638b6297d88658c3b1a101e5cf595ee38f9221116855672ac0"
 metafile = true
 
 [[files]]
@@ -21990,12 +21990,12 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-compatibility.pw.toml"
-hash = "f87af26849fb133c2358738993d2f6a3f87c76ecd18acbcab1bcc024d06dc679"
+hash = "d11eec3509285ad4b19ca8297e1032db158d77af1917e62a99cad0663c80f2ce"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "170b813fb73ae1f8113e5c47dc2d76e842e1f4b0c1d7bf20e99f0485e12a86ee"
+hash = "087f5a08a8792c687b3fcac6c0fba9716fd80fc1c722f2f5a3fbcbc029ec2a13"
 metafile = true
 
 [[files]]
@@ -22005,12 +22005,12 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-katanas.pw.toml"
-hash = "64cfc650afe88936548469de1af92882bb8d7ed65c9f89a88aeb1186b8aa73d7"
+hash = "3b0100d32b837100364629eadd6f5984dd4a44495591475acea231daf38651d9"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-planner-reborn.pw.toml"
-hash = "71f6730b8d08ec4f1a5d376579e47508b4aeb00d817fc9fdadda95b5af082339"
+hash = "901c46e6bc39f94d9e457c0db5335bacc6f8d047dc5aca209d715fe24f29305a"
 metafile = true
 
 [[files]]
