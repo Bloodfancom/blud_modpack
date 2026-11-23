@@ -1,0 +1,48 @@
+name: Deploy Packwiz to GitHub Pages
+
+on:
+  push:
+    branches:
+      - "main"
+      - "test" # Triggers on both branches
+  workflow_dispatch:
+
+permissions:
+  contents: write # Needed to push files to the gh-pages branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Refresh packwiz index
+        uses: hudsonm62/packwiz-action@v1
+        with:
+          args: refresh
+
+      - name: Prepare deployment directory
+        run: |
+          mkdir -p _site
+          rsync -av --progress . _site \
+            --exclude .git \
+            --exclude .github \
+            --exclude _site \
+            --exclude README.md
+
+      - name: Deploy Main to Root
+        if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          keep_files: true # Prevents deleting the /test folder
+
+      - name: Deploy Test to Subfolder
+        if: github.ref == 'refs/heads/test'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          destination_dir: test # Publishes to /test/
