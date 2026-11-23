@@ -3,3 +3,7 @@ logs/
 crash-reports/
 screenshots/
 *.log
+.git/**
+.github/**
+README.md
+.gitignore
