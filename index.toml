@@ -5062,7 +5062,7 @@ hash = "8127f6a1473a9ecf386263097f34da04a2ca8e143f96e5b7a45908fc469a906a"
 
 [[files]]
 file = "client-overrides/config/immediatelyfast.json"
-hash = "2855f4c1f0d4aa33a2bd1ae4e40f4bf17471d13759adbd6e2c0fceb2e8268d9b"
+hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
 
 [[files]]
 file = "client-overrides/config/immersive_aircraft.json"
@@ -5682,7 +5682,7 @@ hash = "d40a0510a5eaf56e3c48e881348d7d826c5a1f61aa29b69cf0fc33dd96d6fdcd"
 
 [[files]]
 file = "client-overrides/config/modernfix-mixins.properties"
-hash = "568a0bab24077f5f6e35ad6ab70a3ddb29defe601c737c533dfcd71c20219e8d"
+hash = "fc4ecfd724bcdfac1e2ba02622171e27452cec469da58c55875ce17a334fbc5c"
 
 [[files]]
 file = "client-overrides/config/modernstartupqol-client.toml"
