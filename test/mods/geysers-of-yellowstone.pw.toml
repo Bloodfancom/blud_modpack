@@ -1,0 +1,13 @@
+name = "Geysers Of Yellowstone"
+filename = "Geysers-Of-Yellowstone-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "177c9a26219130e60b4b5965bf4259cc72b5d477"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8329147
+project-id = 1577447
