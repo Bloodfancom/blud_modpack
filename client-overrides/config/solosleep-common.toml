@@ -1,0 +1,12 @@
+#Enable solo sleep functionality (allows one player to skip night)
+enableSoloSleep = true
+#Minimum number of players required online for solo sleep to work (0 = no minimum)
+#Range: 0 ~ 100
+minimumPlayersRequired = 0
+#Message sent to all players when someone uses solo sleep ({player} will be replaced with player name)
+sleepMessage = "{player} is sleeping. Good night!"
+#Only allow solo sleep during night time (12000-24000 ticks)
+requireNightTime = true
+#Respect the doDaylightCycle game rule (won't skip night if disabled)
+respectGameRules = true
+

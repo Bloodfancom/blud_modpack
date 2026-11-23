@@ -1,0 +1,13 @@
+name = "SoloSleep"
+filename = "SoloSleep-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f39b809f6b995b334860c92b4c811f55ec9932f1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7088539
+project-id = 1362088

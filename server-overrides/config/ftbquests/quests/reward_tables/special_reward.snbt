@@ -1,0 +1,22 @@
+{
+	icon: "supplementaries:present_purple"
+	id: "17DA6C5C3ACE52B0"
+	loot_size: 1
+	order_index: 31
+	rewards: [
+		{ item: "artifacts:cloud_in_a_bottle" }
+		{
+			item: {
+				Count: 1
+				id: "catburger:cat_burger"
+				tag: {
+					display: {
+						Name: "{\"translate\":\"name.mce2.special_reward.1\"}"
+					}
+				}
+			}
+		}
+		{ item: "uniqueaccessories:accessory_box" }
+	]
+	title: "{ftbquests.loot_table.1718805351174656688.title}"
+}
