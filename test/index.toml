@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/deploy-packwiz.yaml"
-hash = "893fcf544ae98daa53cbb8cd2298a2af9fc02f823cad5f9a4e83edf6dbb42a04"
+hash = "6cf36df453a2837143e70e1a0d8cb9d68a9e19b04acb43f641865f5dbdefb427"
 
 [[files]]
 file = "client-overrides/blueprints/bloodgamerfan/pack.json"
